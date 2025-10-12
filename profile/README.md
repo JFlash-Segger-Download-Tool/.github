@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.segger.com/fileadmin/images/products/J-Link/Software/JFlash.png" alt="JFlash Segger Interface Preview" width="800" />
+  <img src="https://www.segger.com/fileadmin/images/products/J-Link/Software/JFlash.png" alt="JFlash Segger Interface Preview" width="700" />
 </p>
 
 ---
